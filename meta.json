@@ -4,7 +4,7 @@
   "method": "git",
   "tags": [
     {
-      "desc": "Command to remove acceptably empty directories.",
+      "description": "Command to remove acceptably empty directories.",
       "license": "MIT",
       "name": "awesome_rmdir",
       "ref": "refs/tags/v0.2.0",
@@ -12,7 +12,7 @@
       "version": "v0_2_0"
     },
     {
-      "desc": "Command to remove acceptably empty directories.",
+      "description": "Command to remove acceptably empty directories.",
       "license": "MIT",
       "name": "awesome_rmdir",
       "ref": "refs/tags/v0.2.1",
@@ -32,7 +32,7 @@
   ],
   "heads": [
     {
-      "desc": "Command to remove acceptably empty directories.",
+      "description": "Command to remove acceptably empty directories.",
       "license": "MIT",
       "name": "awesome_rmdir",
       "ref": "refs/heads/develop",
@@ -40,7 +40,7 @@
       "version": "develop"
     },
     {
-      "desc": "Command to remove acceptably empty directories.",
+      "description": "Command to remove acceptably empty directories.",
       "license": "MIT",
       "name": "awesome_rmdir",
       "ref": "refs/heads/master",
