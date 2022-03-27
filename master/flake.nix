@@ -11,6 +11,7 @@
   inputs.src-awesome_rmdir-master.ref   = "refs/heads/master";
   inputs.src-awesome_rmdir-master.owner = "Araq";
   inputs.src-awesome_rmdir-master.repo  = "awesome_rmdir";
+  inputs.src-awesome_rmdir-master.dir   = "";
   inputs.src-awesome_rmdir-master.type  = "github";
   
   inputs."nake".owner = "nim-nix-pkgs";
